@@ -2,7 +2,10 @@
 
 ![Screenshot](screenshot.png)
 
-I've just created a blog website ui...
+# [LIVE](https://hello-blog-ui.netlify.app/)
+
+
+I've just created a blog website ui with simple routing...
 
 ## Technology
     *React
