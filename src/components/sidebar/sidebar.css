@@ -38,6 +38,7 @@
 
 .sidebarItem > p {
   padding: 30px;
+  font-family: "Varela Round", sans-serif;
 }
 
 .sidebarList {
@@ -49,6 +50,7 @@
   display: inline-block;
   width: 50%;
   margin-top: 15px;
+  font-family: "Varela Round", sans-serif;
   cursor: pointer;
 }
 

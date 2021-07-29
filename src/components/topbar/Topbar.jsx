@@ -36,7 +36,7 @@ export default function Topbar() {
           <Link className="link" to="/settings">
             <img
               className="topImg"
-              src="https://images.pexels.com/photos/1858175/pexels-photo-1858175.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+              src="https://scontent.fjsr1-1.fna.fbcdn.net/v/t1.6435-9/fr/cp0/e15/q65/50881525_649592932123179_8267471574152511488_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=7aed08&efg=eyJpIjoiYiJ9&_nc_eui2=AeHX6TZMye1pgjc_Lwe2qnQgVQd9t518gjhVB323nXyCOGo0YgdwiWKOfSxS0DTLVSaCAYKyz1PlOCS6xQ08JurH&_nc_ohc=ooc7776eDxEAX_zVsM2&tn=16PpyvuyUIMQuELS&_nc_ht=scontent.fjsr1-1.fna&oh=d8f09e75f688d33c6207c0869be3c93d&oe=61287FEE"
               alt=""
             />
           </Link>
